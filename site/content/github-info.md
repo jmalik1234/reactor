@@ -18,3 +18,4 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Latest GitHub Updates
 
 - GitHub continues to expand AI-assisted coding workflows, making repository automation and collaboration easier to manage in everyday development.
+- Mona's updater workflow now highlights fresh GitHub Blog, Changelog, and Awesome Copilot workflow updates for readers.
